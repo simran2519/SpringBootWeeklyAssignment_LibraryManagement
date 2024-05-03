@@ -1,0 +1,6 @@
+com\library\management\Entities\Library.class
+com\library\management\Entities\LibraryMember.class
+com\library\management\Entities\Fine.class
+com\library\management\Entities\Magazine.class
+com\library\management\Entities\Book.class
+com\library\management\ManagementApplication.class
